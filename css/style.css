@@ -463,8 +463,9 @@ ol {
 }
 
 .hs-item h2 {
-	font-size: 60px;
+	font-size: 80px;
 	margin-bottom: 40px;
+	padding:0 500px 70px 0;
 }
 
 .hero-slider.owl-carousel .owl-nav {
