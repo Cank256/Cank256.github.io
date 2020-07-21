@@ -464,7 +464,7 @@ ol {
 
 .hs-item h2 {
 	font-size: 80px;
-	margin-bottom: 40px;
+	margin-bottom: 120px;
 	padding:0 500px 70px 0;
 }
 
@@ -506,7 +506,7 @@ ol {
 .contact-link {
 	position: absolute;
 	left: 42px;
-	bottom: 40px;
+	top: 300px;
 	z-index: 99;
 }
 
